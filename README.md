@@ -22,6 +22,7 @@ I'm Lino Le Van, an independent developer who mostly contributes to open source 
     "c++": "Segmentation Fault",
     "java": "Overgrown OOP",
     "c#": "Wait, why are all of my classes lowercase?",
+    "processing": "mmm visualizations",
     "python": "🐍🐍🐍",
     "rust": "🦀🦀🦀"
   },
@@ -29,7 +30,9 @@ I'm Lino Le Van, an independent developer who mostly contributes to open source 
     "react": "Pretty fun, but way too many frameworks built on top of it",
     "vue": "Refreshing but the code gets really messy",
     "expressjs": "It's all fun and games until the node_modules folder is >1gb in size",
-    "socket.io": "Funky real-time games"
+    "socket.io": "Funky real-time games",
+    "webpack": "Pain and suffering to set up. Fun to use.",
+    "discord.js": "Discord bot moment for sure"
   }
 }
 ```

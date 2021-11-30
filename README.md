@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**lino-levan/lino-levan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Lino Le Van, an independent developer who mostly contributes to open source projects in my free time.
 
-Here are some ideas to get you started:
+- ☁️ I'm currently focusing on [Pintform](https://pintform.com) and [Thoughtlesspack](https://www.npmjs.com/package/tlpack) as my personal projects
+- 🟫 I'm currently learning Rust to build speedy applications
+- 👥 I'm having fun contributing to [Minicraft](https://github.com/chrisj42/minicraft-plus-revived)
+- 💻 Ask me about flash preservation!
+- 😄 Pronouns: He/Him
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Stats 📊
+
+Here are some of my cool stats to get you started!
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lino-levan&hide=Batchfile&theme=vue&layout=compact)

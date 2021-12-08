@@ -6,7 +6,7 @@
 I'm Lino Le Van, an independent developer who mostly contributes to open source projects in my free time.
 
 - ☁️ I'm currently focusing on [Pintform](https://pintform.com) and [Thoughtlesspack](https://www.npmjs.com/package/tlpack) as my personal projects
-- 🟫 I'm currently learning Rust to build speedy applications
+- 🦀 I'm currently learning Rust to build speedy applications
 - 👥 I'm having fun contributing to [Minicraft](https://github.com/chrisj42/minicraft-plus-revived)
 - 💻 Ask me about flash preservation!
 - 😄 Pronouns: He/Him

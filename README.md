@@ -5,10 +5,10 @@
 
 I'm Lino Le Van, an independent developer who mostly contributes to open source projects in my free time.
 
-- ☁️ I'm currently focusing on [Word You Rather](https://wordyourather.com) and [http-in-every-language](https://github.com/lino-levan/http-in-every-language) as my personal projects
-- 🦀 I'm currently learning Rust to build speedy applications
+- ☁️ I'm currently focusing on [Color](https://github.com/lino-levan/color) and [http-in-every-language](https://github.com/lino-levan/http-in-every-language) as my personal projects
+- 🦕 I'm currently learning Deno, and it's actually amazing
 - 👥 I'm having fun contributing to [Minicraft](https://github.com/chrisj42/minicraft-plus-revived)
-- 💻 Ask me about flash preservation!
+- 💻 Ask me about Discord or Software Preservation
 - 😄 Pronouns: He/Him
 
 ### ⚙️ Technologies

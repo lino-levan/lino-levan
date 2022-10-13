@@ -43,6 +43,6 @@ Here are some of my github stats!
 
 ![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=lino-levan&count_private=true&show_icons=true&theme=vue)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lino-levan&hide=Batchfile&theme=vue&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lino-levan&hide=Batchfile&theme=vue&layout=compact&langs_count=10)
 
 ![Github activity graph](https://activity-graph.herokuapp.com/graph?username=lino-levan&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true)

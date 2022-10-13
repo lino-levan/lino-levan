@@ -11,32 +11,6 @@ I'm Lino Le Van, an independent developer who mostly contributes to open source 
 - 💻 Ask me about Discord or Software Preservation
 - 😄 Pronouns: He/Him
 
-### ⚙️ Technologies
-```json
-{
-  "languages": {
-    "javascript": "My first language",
-    "typescript": "Great for when I need something to work",
-    "html": "It's a sad day when I have to touch html directly",
-    "css": "How to center a div?",
-    "c++": "Segmentation Fault",
-    "java": "Overgrown OOP",
-    "c#": "Wait, why are all of my classes lowercase?",
-    "processing": "mmm visualizations",
-    "python": "🐍🐍🐍",
-    "rust": "🦀🦀🦀"
-  },
-  "libraries": {
-    "react": "Pretty fun, but way too many frameworks built on top of it",
-    "vue": "Refreshing but the code gets really messy",
-    "expressjs": "It's all fun and games until the node_modules folder is >1gb in size",
-    "socket.io": "Funky real-time games",
-    "webpack": "Pain and suffering to set up. Fun to use.",
-    "discord.js": "Discord bot moment for sure"
-  }
-}
-```
-
 ### 📊 Stats
 
 Here are some of my github stats!

@@ -6,8 +6,8 @@
 I'm Lino Le Van, an independent developer who mostly contributes to open source projects in my free time.
 
 - ☁️ My personal projects are always fluctating. Check out [~/projects](https://linolevan.com/projects) on my site for my most recent stuff!
-- 🦕 I'm currently learning Deno, and it's actually amazing
-- 👥 I'm having fun contributing to [Minicraft](https://github.com/chrisj42/minicraft-plus-revived)
+- 🦀 I'm learning Rust to build speedy applications
+- 🦕 I'm having fun contributing to [Deno](https://github.com/denoland)
 - 💻 Ask me about Discord or Software Preservation
 - 😄 Pronouns: He/Him
 

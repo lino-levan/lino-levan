@@ -15,7 +15,7 @@ I'm Lino Le Van, an independent developer who mostly contributes to open source 
 
 Here are some of my github stats!
 
-<img src="https://github-ranked.deno.dev/api/generate?name=olexg" width="600">
+<img src="https://github-ranked.deno.dev/api/generate?name=lino-levan" width="600">
 
 ![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=lino-levan&count_private=true&show_icons=true&theme=vue)
 

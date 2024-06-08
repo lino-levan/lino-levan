@@ -22,6 +22,3 @@ Here are some of my github stats!
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lino-levan&hide=Batchfile&theme=vue&layout=compact&langs_count=10)
 
 ![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lino-levan&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true)
-
-```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://raw.githubusercontent.com/lino-levan/lino-levan/main/test.webp');]{x0000}$}

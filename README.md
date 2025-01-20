@@ -3,12 +3,12 @@
 
 ### 👋 Hi there
 
-I'm Lino Le Van, an independent developer who mostly contributes to open source projects in my free time.
+I'm Lino Le Van, a founding engineer who mostly contributes to open source projects in my free time.
 
+- 🟣 Creator of [Astral](https://github.com/lino-levan/astral), the browser automation library in the [Deno](https://github.com/denoland) ecosystem.
 - ☁️ My personal projects are always fluctating. Check out [~/projects](https://linolevan.com/projects) on my site for my most recent stuff!
 - 🦀 I'm learning Rust to build speedy applications
-- 🦕 I'm having fun contributing to [Deno](https://github.com/denoland)
-- 💻 Ask me about Discord or Software Preservation
+- 💻 Invited expert at TC55. Let's standardize server-side JS!
 - 😄 Pronouns: He/Him
 
 ### 📊 Stats

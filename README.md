@@ -3,7 +3,7 @@
 
 ### 👋 Hi there
 
-I'm Lino Le Van, a founding engineer who mostly contributes to open source projects in my free time.
+I'm Lino Le Van, a founder who mostly contributes to open source projects in my free time.
 
 - 🟣 Creator of [Astral](https://github.com/lino-levan/astral), the browser automation library in the [Deno](https://github.com/denoland) ecosystem.
 - ☁️ My personal projects are always fluctating. Check out [~/projects](https://linolevan.com/projects) on my site for my most recent stuff!

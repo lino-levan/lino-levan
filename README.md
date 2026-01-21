@@ -8,7 +8,7 @@ I'm Lino Le Van, a founder who mostly contributes to open source projects in my 
 - 🟣 Creator of [Astral](https://github.com/lino-levan/astral), the browser automation library in the [Deno](https://github.com/denoland) ecosystem.
 - ☁️ My personal projects are always fluctating. Check out [~/projects](https://linolevan.com/projects) on my site for my most recent stuff!
 - 🦀 I'm learning Rust to build speedy applications
-- 💻 Invited expert at TC55. Let's standardize server-side JS!
+- 💻 Building [alphaXiv](https://alphaxiv.org)
 - 😄 Pronouns: He/Him
 
 ### 📊 Stats
